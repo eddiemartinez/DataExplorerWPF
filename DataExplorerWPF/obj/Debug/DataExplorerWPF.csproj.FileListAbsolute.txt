@@ -1,0 +1,53 @@
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\MainWindow.baml
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\MainWindow.g.cs
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\App.g.cs
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF_MarkupCompile.cache
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.g.resources
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.Properties.Resources.resources
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.csproj.GenerateResource.Cache
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.exe.config
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.exe
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.pdb
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.exe
+c:\users\eddie\documents\visual studio 2013\Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.pdb
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.exe.config
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.exe
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.pdb
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\MahApps.Metro.dll
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\System.Windows.Interactivity.dll
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\MainWindow.baml
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\App.baml
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\MainWindow.g.cs
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\App.g.cs
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF_MarkupCompile.cache
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.g.resources
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.Properties.Resources.resources
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.csproj.GenerateResource.Cache
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.exe
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.pdb
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\MahApps.Metro.xml
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.csprojResolveAssemblyReference.cache
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\Resources\Icons.baml
+I:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\Resources\Icons.g.cs
+F:\My Projects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.exe.config
+F:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.exe
+F:\My Projects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.pdb
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.exe.config
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.exe
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.pdb
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.exe
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\bin\Debug\DataExplorerWPF.pdb
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\MainWindow.baml
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\Resources\Icons.baml
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\App.baml
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\Resources\Icons.g.cs
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\App.g.cs
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF_MarkupCompile.cache
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.g.resources
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.Properties.Resources.resources
+C:\Users\Eddie\SkyDrive\MyProjects\DataExplorerWPF\DataExplorerWPF\obj\Debug\DataExplorerWPF.csproj.GenerateResource.Cache
